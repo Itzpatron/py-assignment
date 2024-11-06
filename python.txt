@@ -1,0 +1,7 @@
+download phython
+
+download the extenstions n vs code
+tabnine
+pylance
+python debugger
+python
